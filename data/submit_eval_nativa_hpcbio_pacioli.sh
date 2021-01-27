@@ -25,10 +25,10 @@ time python ./k-mer13.py
 echo "Running k-mer13 with C++"
 time ./k-mer13
 
-# Run k-mer13 with Python
+# Run k-mer14 with Python
 echo "Running k-mer14 with Python"
 time python ./k-mer14.py
 
-# Run k-mer13 with C++
+# Run k-mer14 with C++
 echo "Running k-mer14 with C++"
 time ./k-mer14

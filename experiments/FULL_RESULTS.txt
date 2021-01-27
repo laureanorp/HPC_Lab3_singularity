@@ -1,0 +1,93 @@
+Running k-mers(6 to 15) with Python
+Start
+
+real	0m0,031s
+user	0m0,030s
+sys	0m0,001s
+Start
+
+real	0m0,050s
+user	0m0,049s
+sys	0m0,001s
+Start
+
+real	0m0,127s
+user	0m0,121s
+sys	0m0,005s
+Start
+
+real	0m0,407s
+user	0m0,402s
+sys	0m0,004s
+Start
+
+real	0m1,693s
+user	0m1,689s
+sys	0m0,001s
+Start
+
+real	0m6,145s
+user	0m6,131s
+sys	0m0,005s
+Start
+
+real	0m24,633s
+user	0m24,586s
+sys	0m0,003s
+Start
+
+real	1m36,778s
+user	1m36,610s
+sys	0m0,006s
+Start
+
+real	6m42,131s
+user	6m41,557s
+sys	0m0,003s
+Start
+
+real	25m59,089s
+user	25m56,840s
+sys	0m0,004s
+Running k-mers(11 to 20) with C++
+Start
+
+real	0m0,046s
+user	0m0,044s
+sys	0m0,002s
+Start
+
+real	0m0,177s
+user	0m0,177s
+sys	0m0,000s
+Start
+
+real	0m0,678s
+user	0m0,675s
+sys	0m0,002s
+Start
+
+real	0m2,781s
+user	0m2,777s
+sys	0m0,001s
+Start
+
+real	0m10,770s
+user	0m10,756s
+sys	0m0,002s
+Start
+
+real	0m43,056s
+user	0m43,007s
+sys	0m0,001s
+Start
+
+real	2m59,286s
+user	2m59,085s
+sys	0m0,001s
+Start
+
+real	11m24,140s
+user	11m23,351s
+sys	0m0,001s
+Start

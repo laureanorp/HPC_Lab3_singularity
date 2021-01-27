@@ -1,0 +1,24 @@
+Running k-mer13 with Python
+Start
+
+real	1m43,665s
+user	1m43,461s
+sys	0m0,004s
+Running k-mer13 with C++
+Start
+
+real	0m0,676s
+user	0m0,674s
+sys	0m0,001s
+Running k-mer14 with Python
+Start
+
+real	6m37,206s
+user	6m36,528s
+sys	0m0,006s
+Running k-mer14 with C++
+Start
+
+real	0m2,789s
+user	0m2,782s
+sys	0m0,002s

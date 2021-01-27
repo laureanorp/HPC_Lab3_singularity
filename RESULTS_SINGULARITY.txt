@@ -1,0 +1,24 @@
+Running k-mer13 with Python on Singularity
+Start
+
+real	1m31,072s
+user	1m30,732s
+sys	0m0,174s
+Running k-mer13 with C++ on Singularity
+Start
+
+real	0m0,919s
+user	0m0,768s
+sys	0m0,117s
+Running k-mer14 with Python on Singularity
+Start
+
+real	6m10,259s
+user	6m9,537s
+sys	0m0,178s
+Running k-mer14 with C++ on Singularity
+Start
+
+real	0m2,892s
+user	0m2,734s
+sys	0m0,121s
